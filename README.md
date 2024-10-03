@@ -1,4 +1,4 @@
-# IoT Penetration Testing Guide
+# IoT Penetration Testing
 
 ## Overview
 

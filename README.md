@@ -38,7 +38,7 @@ This repository serves as a comprehensive guide for performing **IoT Penetration
 - **Traffic Manipulation:** Use Burp Suite or mitmproxy to manipulate device communication.
 
 ### 5. Web Interface and Mobile App Testing
-- **Web Application:** Test web apps for vulnerabilities like SQLi, XSS.
+- **Web Application:** Testing web apps for vulnerabilities like SQLi, XSS.
 - **Mobile Application:** Reverse engineer mobile apps using APKTool to check for insecure practices.
 
 ### 6. Wireless Communication Testing

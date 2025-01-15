@@ -9,7 +9,7 @@ doc.add_heading('Introduction', level=1)
 doc.add_paragraph(
     "IoT (Internet of Things) Penetration Testing involves assessing the security of IoT devices, including the hardware, "
     "firmware, communication protocols, and web/mobile interfaces. This document outlines the steps to perform a comprehensive "
-    "IoT pen test, aimed at identifying vulnerabilities and providing remediation."
+    "IoT pen test, aimed at identifying vulnerabilities and providing remediations."
 )
 
 # Step 1: Information Gathering
